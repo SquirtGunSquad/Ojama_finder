@@ -2,7 +2,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '5 4 * * *' # every twenty minutes
+    - cron:  '5 4 * * *' # every day at 4:05am
 jobs:
   scheduled:
     runs-on: ubuntu-latest
