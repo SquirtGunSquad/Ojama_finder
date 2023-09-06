@@ -11,7 +11,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data from the API endpoint
       run: |-
-        curl -s "https://www.dexerto.com/_next/data/J8_xJtDL4KzdXQn3woaIC/gaming.json" | jq '.pageProps.vertical.seo.featuredPosts' > return.json
+        curl -s "https://www.dexerto.com/_next/data/J8_xJtDL4KzdXQn3woaIC/gaming.json" | jq '.pageProps.vertical.featuredPosts' > return.json
     - name: Commit and push if the data has changed
       run: |-
         git config user.name "Automated"
