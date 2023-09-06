@@ -1,1 +1,182 @@
-null
+[
+  {
+    "id": 2280955,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/God-of-War-director-hails-Starfield-as-top-3-game-all-time.jpg",
+      "alt": "Kratos yelling in God of War",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/gaming/god-of-war-director-hails-starfield-as-top-3-game-all-time-and-urges-everyone-to-play-it-2280955/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "James Busby",
+      "href": "/author/jamesbusby/"
+    },
+    "heading": "God of War director hails Starfield as top 3 game all time and urges everyone to play it",
+    "category": {
+      "slug": "gaming",
+      "name": "Gaming",
+      "id": "dGVybToxNg=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-06T11:32:27",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2280804,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/overwatch-2-most-broken-OP-hero-ever-news-e1693994739681.jpg",
+      "alt": "overwatch 2 characters stood together",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/overwatch/overwatch-2-players-pinpoint-the-most-broken-and-op-hero-ever-2280804/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Andrew Highton",
+      "href": "/author/andrewhighton/"
+    },
+    "heading": "Overwatch 2 players pinpoint the most “broken” and OP Hero ever",
+    "category": {
+      "slug": "overwatch",
+      "name": "Overwatch",
+      "id": "dGVybTo5"
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-06T10:32:44",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2280568,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/Starfield-Lord-of-the-Rings.jpg",
+      "alt": "Starfield Lord of the Rings",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/starfield/starfield-hid-a-lord-of-the-rings-easter-egg-in-the-most-unlikely-place-imaginable-2280568/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Ethan Dean",
+      "href": "/author/ethandean/"
+    },
+    "heading": "Starfield hid a Lord of the Rings Easter egg in the most unlikely place imaginable",
+    "category": {
+      "slug": "starfield",
+      "name": "Starfield",
+      "id": "dGVybToxMTE2OA=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-06T06:44:47",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2280739,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/destiny-2-iron-banner-engrams-reset-season-of-the-witch.jpg",
+      "alt": "Lord Saladin, the head vendor for Iron Banner in Destiny 2.",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/destiny/destiny-2-players-accuse-bungie-of-lying-after-deleting-iron-engrams-2280739/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Kurt Perry",
+      "href": "/author/kurtperry/"
+    },
+    "heading": "Destiny 2 players accuse Bungie of lying after deleting Iron Engrams",
+    "category": {
+      "slug": "destiny",
+      "name": "Destiny",
+      "id": "dGVybTo0OQ=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-06T09:50:38",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2280921,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/07/12/cod-warzone-operator-prone-s4-reloaded.jpg",
+      "alt": "Call of Duty warzone operator prone in Season 4 Reloaded update",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/call-of-duty/warzone-players-fear-for-modern-warfare-3-as-audio-has-never-been-worse-2280921/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Connor Bennett",
+      "href": "/author/connor/"
+    },
+    "heading": "Warzone players fear for Modern Warfare 3 as audio has “never been worse”",
+    "category": {
+      "slug": "call-of-duty",
+      "name": "Call of Duty",
+      "id": "dGVybToz"
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-06T10:42:04",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  }
+]
