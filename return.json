@@ -1,103 +1,31 @@
 [
   {
-    "id": 2282373,
+    "id": 2284126,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/07/Shroud-Baldurs-Gate-3-Starfield.jpg",
-      "alt": "Shroud next to Baldur's Gate 3 and Starfield",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/08/28/diablo-4-lilith.jpeg",
+      "alt": "diablo 4 xp",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/baldurs-gate/shroud-explains-why-baldurs-gate-3-excels-where-starfield-falls-short-2282373/",
+    "href": "/diablo/diablo-4-getting-annual-expansions-is-actually-a-good-thing-2284126/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Brad Norton",
-      "href": "/author/bradnorton/"
+      "name": "Patrick Dane",
+      "href": "/author/patrickdane/"
     },
-    "heading": "Shroud explains why Baldur’s Gate 3 excels where Starfield falls short",
-    "category": {
-      "slug": "baldurs-gate",
-      "name": "Baldur's Gate",
-      "id": "dGVybToxMTM1Mw=="
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-07T01:13:20",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2282389,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/07/Jarvan-IV-splash-art.jpg",
-      "alt": "Jarvan IV Splash Art",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/league-of-legends/league-of-legends-patch-13-18-notes-2282389/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Liam Ho",
-      "href": "/author/liamho/"
-    },
-    "heading": "League of Legends Patch 13.18 early notes: Jarvan IV & Tryndamere nerfs, Briar release, more",
-    "category": {
-      "slug": "league-of-legends",
-      "name": "League of Legends",
-      "id": "dGVybToyMw=="
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-07T03:17:22",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2280707,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/diablo-4-players-embarassed-annual-expansions-battle-pass-news-e1693989789823.jpg",
-      "alt": "large demon in diablo 4",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/diablo/diablo-4-players-embarrassed-by-annual-expansions-and-battle-passes-2280707/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Andrew Highton",
-      "href": "/author/andrewhighton/"
-    },
-    "heading": "Diablo 4 players “embarrassed” by annual expansions and Battle Passes",
+    "heading": "Diablo 4 getting annual expansions is actually a good thing",
     "category": {
       "slug": "diablo",
       "name": "Diablo",
       "id": "dGVybTo5NDc4"
     },
     "isFeatured": false,
-    "timePublished": "2023-09-06T09:34:50",
+    "timePublished": "2023-09-08T15:40:35",
     "description": "",
     "vertical": {
       "colors": {
@@ -108,68 +36,140 @@
     "articleTypes": null
   },
   {
-    "id": 2282396,
+    "id": 2283974,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/08/15/baldurs-gate-3-bard-class.jpeg",
-      "alt": "Baldur's Gate 3 Crossplay",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/04/How-to-disable-turrets-in-Starfield.jpg",
+      "alt": "Starfield Ship Launching",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/baldurs-gate/baldurs-gate-3-devs-confirm-crossplay-plans-but-advise-fans-not-to-hold-their-breath-2282396/",
+    "href": "/starfield/starfield-is-already-bethesdas-biggest-launch-ever-eclipsing-skyrim-fallout-4-2283974/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
       "name": "Ethan Dean",
       "href": "/author/ethandean/"
     },
-    "heading": "Baldur’s Gate 3 devs confirm crossplay plans but advise fans not to hold their breath",
-    "category": {
-      "slug": "baldurs-gate",
-      "name": "Baldur's Gate",
-      "id": "dGVybToxMTM1Mw=="
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-07T03:19:39",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2282352,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/07/Best-Ships-in-Starfield.jpg",
-      "alt": "Best ship in Starfield taking off",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/starfield/best-ships-in-starfield-2282352/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Ethan Dean",
-      "href": "/author/ethandean/"
-    },
-    "heading": "Best ships in Starfield: Cargo, combat, more",
+    "heading": "Starfield is already Bethesda’s biggest launch ever, eclipsing Skyrim & Fallout 4",
     "category": {
       "slug": "starfield",
       "name": "Starfield",
       "id": "dGVybToxMTE2OA=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-07T00:11:42",
+    "timePublished": "2023-09-08T00:55:51",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2284880,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/08/Alanah-responds.jpg",
+      "alt": "Alanah-responds-to-fans-calling-for-her-to-be-fired-starfield",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/starfield/alanah-pearce-responds-to-calls-for-her-to-be-fired-over-starfield-coverage-2284880/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Carver Fisher",
+      "href": "/author/carverfisher/"
+    },
+    "heading": "Alanah Pearce responds to calls for her to be fired over Starfield coverage",
+    "category": {
+      "slug": "starfield",
+      "name": "Starfield",
+      "id": "dGVybToxMTE2OA=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-08T18:28:33",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2282324,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/overwatch-2-sept-7-patch-orisa-nerfs-zarya-buffs-support.jpg",
+      "alt": "zarya buffed in overwatch 2",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/overwatch/overwatch-2-sept-7-patch-notes-zarya-buffs-orisa-nerfs-big-support-updates-more-2282324/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Michael Gwilliam",
+      "href": "/author/mikegw/"
+    },
+    "heading": "Overwatch 2 Sept 7 patch notes: Zarya buffs, Orisa nerfs, big support updates, more",
+    "category": {
+      "slug": "overwatch",
+      "name": "Overwatch",
+      "id": "dGVybTo5"
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-07T18:00:29",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2285608,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2022/12/12/roadhog-ow2-buffed-combo-DPS-seagull.jpg",
+      "alt": "roadhog nerfed in ow2",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/overwatch/overwatch-2-team-shares-new-roadhog-rework-details-to-buff-underperforming-tank-2285608/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Michael Gwilliam",
+      "href": "/author/mikegw/"
+    },
+    "heading": "Overwatch 2 team shares new Roadhog rework details to buff ‘underperforming’ tank",
+    "category": {
+      "slug": "overwatch",
+      "name": "Overwatch",
+      "id": "dGVybTo5"
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-08T19:34:02",
     "description": "",
     "vertical": {
       "colors": {
