@@ -1,67 +1,31 @@
 [
   {
-    "id": 2284126,
+    "id": 2286703,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/08/28/diablo-4-lilith.jpeg",
-      "alt": "diablo 4 xp",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/How-to-farm-Lead-in-Starfield.jpg",
+      "alt": "A screenshot from the game Starfield",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/diablo/diablo-4-getting-annual-expansions-is-actually-a-good-thing-2284126/",
+    "href": "/starfield/starfield-play-discovers-how-to-recreate-iconic-bethesda-shopping-glitch-2286703/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Patrick Dane",
-      "href": "/author/patrickdane/"
+      "name": "Theo Burman",
+      "href": "/author/theoburman/"
     },
-    "heading": "Diablo 4 getting annual expansions is actually a good thing",
-    "category": {
-      "slug": "diablo",
-      "name": "Diablo",
-      "id": "dGVybTo5NDc4"
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-08T15:40:35",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2283974,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/04/How-to-disable-turrets-in-Starfield.jpg",
-      "alt": "Starfield Ship Launching",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/starfield/starfield-is-already-bethesdas-biggest-launch-ever-eclipsing-skyrim-fallout-4-2283974/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Ethan Dean",
-      "href": "/author/ethandean/"
-    },
-    "heading": "Starfield is already Bethesda’s biggest launch ever, eclipsing Skyrim & Fallout 4",
+    "heading": "Starfield player discovers how to recreate iconic Bethesda shopping glitch",
     "category": {
       "slug": "starfield",
       "name": "Starfield",
       "id": "dGVybToxMTE2OA=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-08T00:55:51",
+    "timePublished": "2023-09-10T13:04:39",
     "description": "",
     "vertical": {
       "colors": {
@@ -72,32 +36,32 @@
     "articleTypes": null
   },
   {
-    "id": 2284880,
+    "id": 2286787,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/08/Alanah-responds.jpg",
-      "alt": "Alanah-responds-to-fans-calling-for-her-to-be-fired-starfield",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2021/03/Dexerto-Header-20.jpg",
+      "alt": "Pokemon Go Egg Hatching Feature",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/starfield/alanah-pearce-responds-to-calls-for-her-to-be-fired-over-starfield-coverage-2284880/",
+    "href": "/pokemon/pokemon-go-eggs-are-shiny-hatch-rates-too-low-2286787/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Carver Fisher",
-      "href": "/author/carverfisher/"
+      "name": "Rory Teale",
+      "href": "/author/roryteale/"
     },
-    "heading": "Alanah Pearce responds to calls for her to be fired over Starfield coverage",
+    "heading": "Pokemon Go players frustrated by low Shiny hatch rates",
     "category": {
-      "slug": "starfield",
-      "name": "Starfield",
-      "id": "dGVybToxMTE2OA=="
+      "slug": "pokemon",
+      "name": "Pokemon",
+      "id": "dGVybTo1Mw=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-08T18:28:33",
+    "timePublished": "2023-09-10T15:54:59",
     "description": "",
     "vertical": {
       "colors": {
@@ -108,68 +72,32 @@
     "articleTypes": null
   },
   {
-    "id": 2282324,
+    "id": 2286729,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/overwatch-2-sept-7-patch-orisa-nerfs-zarya-buffs-support.jpg",
-      "alt": "zarya buffed in overwatch 2",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/10/CS2Feature.jpg",
+      "alt": "Counter-Strike 2 Servers",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/overwatch/overwatch-2-sept-7-patch-notes-zarya-buffs-orisa-nerfs-big-support-updates-more-2282324/",
+    "href": "/counter-strike-2/counter-strike-2-servers-still-run-at-64-ticks-while-faceit-reveals-128-tick-2286729/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Michael Gwilliam",
-      "href": "/author/mikegw/"
+      "name": "Josh Taylor",
+      "href": "/author/joshtaylor/"
     },
-    "heading": "Overwatch 2 Sept 7 patch notes: Zarya buffs, Orisa nerfs, big support updates, more",
+    "heading": "Counter-Strike 2 servers still run at 64 ticks while FACEIT reveals 128 tick",
     "category": {
-      "slug": "overwatch",
-      "name": "Overwatch",
-      "id": "dGVybTo5"
+      "slug": "counter-strike-2",
+      "name": "Counter-Strike 2",
+      "id": "dGVybToxMTAzNQ=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-07T18:00:29",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2285608,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2022/12/12/roadhog-ow2-buffed-combo-DPS-seagull.jpg",
-      "alt": "roadhog nerfed in ow2",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/overwatch/overwatch-2-team-shares-new-roadhog-rework-details-to-buff-underperforming-tank-2285608/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Michael Gwilliam",
-      "href": "/author/mikegw/"
-    },
-    "heading": "Overwatch 2 team shares new Roadhog rework details to buff ‘underperforming’ tank",
-    "category": {
-      "slug": "overwatch",
-      "name": "Overwatch",
-      "id": "dGVybTo5"
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-08T19:34:02",
+    "timePublished": "2023-09-10T14:03:19",
     "description": "",
     "vertical": {
       "colors": {
