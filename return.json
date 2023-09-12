@@ -1,31 +1,31 @@
 [
   {
-    "id": 2286703,
+    "id": 2288296,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/06/How-to-farm-Lead-in-Starfield.jpg",
-      "alt": "A screenshot from the game Starfield",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/11/starfield-spacefight.jpg",
+      "alt": "Dogfight in Space in Starfield",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/starfield/starfield-play-discovers-how-to-recreate-iconic-bethesda-shopping-glitch-2286703/",
+    "href": "/starfield/starfield-player-shows-how-to-get-the-best-battleship-in-the-game-for-free-2288296/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Theo Burman",
-      "href": "/author/theoburman/"
+      "name": "Rishabh Sabarwal",
+      "href": "/author/rishabhsabarwal/"
     },
-    "heading": "Starfield player discovers how to recreate iconic Bethesda shopping glitch",
+    "heading": "Starfield player shows how to get the best battleship in the game for free",
     "category": {
       "slug": "starfield",
       "name": "Starfield",
       "id": "dGVybToxMTE2OA=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-10T13:04:39",
+    "timePublished": "2023-09-11T19:19:24",
     "description": "",
     "vertical": {
       "colors": {
@@ -36,32 +36,32 @@
     "articleTypes": null
   },
   {
-    "id": 2286787,
+    "id": 2288223,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2021/03/Dexerto-Header-20.jpg",
-      "alt": "Pokemon Go Egg Hatching Feature",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/11/baldurs-gate-3-shadowheart.jpg",
+      "alt": "Sad looking Shadowheart in Baldur's Gate 3",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/pokemon/pokemon-go-eggs-are-shiny-hatch-rates-too-low-2286787/",
+    "href": "/baldurs-gate/baldurs-gate-3-fan-explains-why-knock-is-the-best-spell-2288223/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Rory Teale",
-      "href": "/author/roryteale/"
+      "name": "Noelle Corbett",
+      "href": "/author/noellecorbett/"
     },
-    "heading": "Pokemon Go players frustrated by low Shiny hatch rates",
+    "heading": "Baldur’s Gate 3 fan explains why Knock is the best spell",
     "category": {
-      "slug": "pokemon",
-      "name": "Pokemon",
-      "id": "dGVybTo1Mw=="
+      "slug": "baldurs-gate",
+      "name": "Baldur's Gate",
+      "id": "dGVybToxMTM1Mw=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-10T15:54:59",
+    "timePublished": "2023-09-11T16:17:25",
     "description": "",
     "vertical": {
       "colors": {
@@ -72,32 +72,104 @@
     "articleTypes": null
   },
   {
-    "id": 2286729,
+    "id": 2287586,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/10/CS2Feature.jpg",
-      "alt": "Counter-Strike 2 Servers",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/11/diablo-4-season-two-content-news-1-e1694429576143.jpg",
+      "alt": "diablo 4 character",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/counter-strike-2/counter-strike-2-servers-still-run-at-64-ticks-while-faceit-reveals-128-tick-2286729/",
+    "href": "/diablo/diablo-4-players-claim-season-2-needs-massive-overhaul-as-game-is-dead-2287586/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Josh Taylor",
-      "href": "/author/joshtaylor/"
+      "name": "Andrew Highton",
+      "href": "/author/andrewhighton/"
     },
-    "heading": "Counter-Strike 2 servers still run at 64 ticks while FACEIT reveals 128 tick",
+    "heading": "Diablo 4 players claim Season 2 needs massive overhaul as game is “dead”",
     "category": {
-      "slug": "counter-strike-2",
-      "name": "Counter-Strike 2",
-      "id": "dGVybToxMTAzNQ=="
+      "slug": "diablo",
+      "name": "Diablo",
+      "id": "dGVybTo5NDc4"
     },
     "isFeatured": false,
-    "timePublished": "2023-09-10T14:03:19",
+    "timePublished": "2023-09-11T12:19:17",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2288388,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/11/nba-2k24-kobe-lakers-vs-celtics.jpg",
+      "alt": "nba 2k24 shooting slump",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/nba-2k/nba-2k24-players-call-out-shooting-slump-mechanic-as-the-worst-new-feature-2288388/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Brianna Reeves",
+      "href": "/author/briannareeves/"
+    },
+    "heading": "NBA 2K24 players call out Shooting Slump mechanic as the worst new feature",
+    "category": {
+      "slug": "nba-2k",
+      "name": "NBA 2K",
+      "id": "dGVybToyNg=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-11T17:42:11",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2288221,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/11/All-Cyberpunk-2077-Phantom-Liberty-Perks.jpg",
+      "alt": "Cyberpunk 2077 Phantom Liberty bike combat",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/cyberpunk-2077/all-cyberpunk-2077-phantom-liberty-perks-2288221/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "James Busby",
+      "href": "/author/jamesbusby/"
+    },
+    "heading": "All Cyberpunk 2077 Phantom Liberty Perks revealed so far",
+    "category": {
+      "slug": "cyberpunk-2077",
+      "name": "Cyberpunk 2077",
+      "id": "dGVybTozNzg5"
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-11T16:16:45",
     "description": "",
     "vertical": {
       "colors": {
