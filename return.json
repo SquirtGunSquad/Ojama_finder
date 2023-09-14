@@ -1,67 +1,31 @@
 [
   {
-    "id": 2288786,
+    "id": 2292417,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/11/overwatch-2-devs-stop-cheaters-mouse-keyboard-xim-console.jpg",
-      "alt": "sombra on dorado during sunset in ow2",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/13/pokemon-go-excellent-throws.jpeg",
+      "alt": "pokemon go excellent throw",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/overwatch/overwatch-2-dev-confirms-long-awaited-feature-to-stop-players-from-ruining-games-2288786/",
+    "href": "/pokemon/pokemon-go-life-hack-is-making-excellent-throws-easier-than-ever-2292417/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Michael Gwilliam",
-      "href": "/author/mikegw/"
+      "name": "David Purcell",
+      "href": "/author/davidpurcell/"
     },
-    "heading": "Overwatch 2 dev confirms long-awaited feature to stop players from “ruining” games",
-    "category": {
-      "slug": "overwatch",
-      "name": "Overwatch",
-      "id": "dGVybTo5"
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-11T22:22:38",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2071685,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/02/26/Pokemon-Scarlet-Violet-DLC.jpg",
-      "alt": "Pokemon Scarlet & Violet DLC",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/pokemon/pokemon-scarlet-violet-dlc-secrets-of-area-zero-announced-for-2023-2071685/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Laura Gray",
-      "href": "/author/lauragray/"
-    },
-    "heading": "Pokemon Scarlet & Violet DLC: Release window, trailers, price, more",
+    "heading": "Pokemon Go “life hack” is making excellent throws easier than ever",
     "category": {
       "slug": "pokemon",
       "name": "Pokemon",
       "id": "dGVybTo1Mw=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-12T14:23:56",
+    "timePublished": "2023-09-13T18:21:11",
     "description": "",
     "vertical": {
       "colors": {
@@ -72,32 +36,32 @@
     "articleTypes": null
   },
   {
-    "id": 2289471,
+    "id": 2291650,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/12/new-atlantis-city-starfield.jpg",
-      "alt": "New Atlantis city entrance in Starfield.",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/13/Disney-Dreamlight-Valley-beast.jpg",
+      "alt": "Disney Dreamlight Valley Beast",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/starfield/starfield-new-atlantis-location-map-vendors-2289471/",
+    "href": "/disney-dreamlight-valley/disney-dreamlight-valley-how-to-complete-a-prince-in-disguise-quest-2291650/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
-      "name": "Kurt Perry",
-      "href": "/author/kurtperry/"
+      "name": "Jessica Filby",
+      "href": "/author/jessicafilby/"
     },
-    "heading": "Starfield: New Atlantis location, map, vendors, more",
+    "heading": "Disney Dreamlight Valley: How to complete A Prince in Disguise quest",
     "category": {
-      "slug": "starfield",
-      "name": "Starfield",
-      "id": "dGVybToxMTE2OA=="
+      "slug": "disney-dreamlight-valley",
+      "name": "Disney Dreamlight Valley",
+      "id": "dGVybToxMTE1NA=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-12T16:07:40",
+    "timePublished": "2023-09-13T15:33:14",
     "description": "",
     "vertical": {
       "colors": {
@@ -108,74 +72,107 @@
     "articleTypes": null
   },
   {
-    "id": 2289991,
+    "id": 2093744,
     "img": {
       "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/12/smash-ultimate-nintendo-direct-reveal-content-switch-2.jpg",
-      "alt": "smash ultimate sonic fights bowser, zero suit samus, villager",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/03/22/Counter-Strike-2-official-image.jpg",
+      "alt": "CounterStrike 2 wallpaper",
       "cinematicSrc": null,
       "credits": "",
       "caption": "",
       "width": 1920,
       "height": 1080
     },
-    "href": "/smash/smash-ultimate-players-convinced-new-content-coming-amid-nintendo-direct-leaks-2289991/",
-    "status": "published",
-    "brandUnsafeContent": null,
-    "author": {
-      "name": "Michael Gwilliam",
-      "href": "/author/mikegw/"
-    },
-    "heading": "Smash Ultimate players convinced new content coming amid Nintendo Direct leaks",
-    "category": {
-      "slug": "smash",
-      "name": "Smash",
-      "id": "dGVybTozNw=="
-    },
-    "isFeatured": false,
-    "timePublished": "2023-09-12T16:05:38",
-    "description": "",
-    "vertical": {
-      "colors": {
-        "primary": "#e0005e",
-        "secondary": "#d91a68"
-      }
-    },
-    "articleTypes": null
-  },
-  {
-    "id": 2290527,
-    "img": {
-      "sizes": "(max-width: 300px) 100vw, 300px",
-      "src": "https://editors.dexerto.com/wp-content/uploads/2023/06/14/Modern-Warfare-2-Tempus-Razorback-how-to-unlock.jpg",
-      "alt": "",
-      "cinematicSrc": null,
-      "credits": "",
-      "caption": "",
-      "width": 1920,
-      "height": 1080
-    },
-    "href": "/call-of-duty/modern-warfare-2-free-trial-comes-with-catch-that-has-players-furious-2290527/",
+    "href": "/counter-strike-2/csgo-2-beta-test-guide-2093744/",
     "status": "published",
     "brandUnsafeContent": null,
     "author": {
       "name": "Ryan Lemay",
       "href": "/author/ryanlemay/"
     },
-    "heading": "Modern Warfare 2 free trial comes with catch that has players furious",
+    "heading": "How to play Counter-Strike 2 beta: Valve sends invites to more players for limited test",
     "category": {
-      "slug": "call-of-duty",
-      "name": "Call of Duty",
-      "id": "dGVybToz"
+      "slug": "counter-strike-2",
+      "name": "Counter-Strike 2",
+      "id": "dGVybToxMTAzNQ=="
     },
     "isFeatured": false,
-    "timePublished": "2023-09-12T21:04:56",
+    "timePublished": "2023-09-13T10:43:59",
     "description": "",
     "vertical": {
       "colors": {
         "primary": "#e0005e",
         "secondary": "#d91a68"
       }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2292148,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/13/starfield-sam.jpeg",
+      "alt": "starfield update",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/starfield/starfield-updates-post-launch-fov-dlss-food-option-2292148/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "Brianna Reeves",
+      "href": "/author/briannareeves/"
+    },
+    "heading": "Bethesda reveals Starfield post-launch updates: FOV, DLSS, new food option, more",
+    "category": {
+      "slug": "starfield",
+      "name": "Starfield",
+      "id": "dGVybToxMTE2OA=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-13T17:10:45",
+    "description": "",
+    "vertical": {
+      "colors": {
+        "primary": "#e0005e",
+        "secondary": "#d91a68"
+      }
+    },
+    "articleTypes": null
+  },
+  {
+    "id": 2292279,
+    "img": {
+      "sizes": "(max-width: 300px) 100vw, 300px",
+      "src": "https://editors.dexerto.com/wp-content/uploads/2023/09/13/feebas-milotic-pokemon-scarlet-violet.jpeg",
+      "alt": "feebas milotic pokemon scarlet violet",
+      "cinematicSrc": null,
+      "credits": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080
+    },
+    "href": "/pokemon/how-to-evolve-feebas-into-milotic-in-pokemon-scarlet-violet-dlc-prism-scale-beauty-guide-2292279/",
+    "status": "published",
+    "brandUnsafeContent": null,
+    "author": {
+      "name": "David Purcell",
+      "href": "/author/davidpurcell/"
+    },
+    "heading": "How to evolve Feebas into Milotic in Pokemon Scarlet & Violet DLC: Prism Scale & Beauty guide",
+    "category": {
+      "slug": "pokemon",
+      "name": "Pokemon",
+      "id": "dGVybTo1Mw=="
+    },
+    "isFeatured": false,
+    "timePublished": "2023-09-13T17:40:40",
+    "description": "",
+    "vertical": {
+      "colors": null
     },
     "articleTypes": null
   }
