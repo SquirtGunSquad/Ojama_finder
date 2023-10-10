@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 import pathlib
 import datetime
-import model from AlexNet.py
+import model from AlexNet
 
 # printout versions
 print(f"Tensor Flow Version: {tf.__version__}")
