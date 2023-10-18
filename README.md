@@ -8,3 +8,5 @@ Find the words Ojama Lime
 [View the Return.json in Flat](https://flatgithub.com/SquirtGunSquad/Ojama_finder/return.json)
 
 [Scraping images from google search](https://medium.com/@wwwanandsuresh/web-scraping-images-from-google-9084545808a2)
+
+[Need to download and add to path chromedriver](https://sites.google.com/chromium.org/driver/getting-started)
