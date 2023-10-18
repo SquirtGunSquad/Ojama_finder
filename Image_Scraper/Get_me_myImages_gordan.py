@@ -80,8 +80,8 @@ def persist_image(folder_path:str,file_name:str,url:str):
 
 if __name__ == '__main__':
     #Example = '/Users/anand/Desktop/chromedriver'
-    DRIVER_PATH = input("Put the path for your ChromeDriver here")
-    wd = webdriver.Chrome(executable_path=DRIVER_PATH)
+    #DRIVER_PATH = input("Put the path for your ChromeDriver here")
+    wd = webdriver.Chrome()
     queries = ["Ojama"]  #change your set of querries here
     for query in queries:
         wd.get('https://google.com')
