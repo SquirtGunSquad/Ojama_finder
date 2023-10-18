@@ -6,3 +6,5 @@ Find the words Ojama Lime
 [good example for use case for Faster R-CNN](https://medium.com/@natsunoyuki/teaching-a-model-to-become-an-expert-at-locating-cats-and-dogs-in-images-716cdbc8d48f)
 
 [View the Return.json in Flat](https://flatgithub.com/SquirtGunSquad/Ojama_finder/return.json)
+
+[Scraping images from google search](https://medium.com/@wwwanandsuresh/web-scraping-images-from-google-9084545808a2)
