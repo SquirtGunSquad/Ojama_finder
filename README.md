@@ -10,3 +10,5 @@ Find the words Ojama Lime
 [Scraping images from google search](https://medium.com/@wwwanandsuresh/web-scraping-images-from-google-9084545808a2)
 
 [Need to download and add to path chromedriver](https://sites.google.com/chromium.org/driver/getting-started)
+
+[Tool used for making my own labels for a Model](https://labelstud.io/)
